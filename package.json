@@ -1,0 +1,11 @@
+{
+  "name": "vanilla-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/znzmektm2/vanilla-redux.git",
+  "author": "znzmektm2 <tingcber2@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
